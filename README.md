@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MuhammadAshiqAmeer
 - 👀 I’m interested in Machine learning and AI projects
 - 🌱 I’m pursuing M.tech in Computer Science and Engineering with Data science and AI specialization
-- 📫 How to reach me:
+- 📫 Connect me on:
       LinkedIn-   https://www.linkedin.com/in/muhammad-ashiq-ameer-b496801b2
 
 <!---
