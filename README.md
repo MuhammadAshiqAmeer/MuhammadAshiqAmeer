@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MuhammadAshiqAmeer
-- 👀 I’m interested in Machine learning and AI projects,python programming and 
+- 👀 I’m interested in Machine learning ,AI projects,python programming and automation
 - 🌱 I’m pursuing M.tech in Computer Science and Engineering with Data science and AI specialization
 - 📫 Connect me on:
 
