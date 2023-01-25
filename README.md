@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MuhammadAshiqAmeer
-- 👀 I’m interested in ML, AI, python programming, automation, cyber physical systems..
+- 👀 I’m interested in ML, AI, python programming, mobile app development(Futter), automation, cyber physical systems..
 - 🌱 I’m pursuing M.tech in Computer Science and Engineering with Data science and AI specialization
 - 📫 Connect me on:
 
