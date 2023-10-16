@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MuhammadAshiqAmeer
-- 👀 I’m interested in ML, AI, python programming, mobile app development(Futter), automation, cyber physical systems..
-- 🌱 I’m pursuing M.tech in Computer Science and Engineering with Data science and AI specialization
+- 👀 I’m working on ML, DL , Computer vision projects
+- 🌱 Working as AI Engineer @ Nexteons Technologies LLP
 - 📫 Connect me on:
 
      - LinkedIn-   https://www.linkedin.com/in/muhammad-ashiq-ameer-b496801b2
