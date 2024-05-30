@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MuhammadAshiqAmeer
-- 👀 I’m working on ML, DL , Computer vision projects
+- 👀 I’m working on ML, DL , GenAI, Open source LLMs, Computer vision and projects
 - 🌱 Working as AI Engineer @ Nexteons Technologies LLP
 - 📫 Connect me on:
 
